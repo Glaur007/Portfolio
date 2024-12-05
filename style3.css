@@ -1,0 +1,70 @@
+body {
+	background-color: black;
+	float: center; 
+	display: inline-block;
+	width: auto;
+	height: 100px; 
+	padding: 10px;
+	margin: 20px;
+}
+
+h1{
+	color: black; 
+	background-color: orange; 
+	float: center; 
+	display: inline-block;
+	width: 1800px;
+	height: auto; 
+	padding: 10px;
+	margin: 20px;
+} 
+
+
+nav ul li {
+	text-align: right; 
+	float: right; 
+	bottom: 130px;
+	position: relative; 
+	right: 50px;
+	padding: 40px;
+ }
+ 
+ nav ul li a{
+	 color: black;
+	 text-decoration: none;
+ }
+ 
+ #homepagecontent {
+	 color: white; 
+	 text-align: center; 
+	 justify-content: center;
+	 position: relative;
+	 display: flex;
+	 float: center; 
+	 left: 300px;
+	 top: 100px;
+ }
+ 
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 18%;
+	width: 98%;
+	background-color: orange;
+	color: black;
+	text-align: center;
+	float: center; 
+	display: inline-block;
+	padding: 1%;
+	margin: auto;
+	justify-content: center;
+}
+
+img.logoSize {
+	width: auto;
+	height: 80px;
+	margin: 10px; 
+	float: center;
+	padding: 30px;
+}
